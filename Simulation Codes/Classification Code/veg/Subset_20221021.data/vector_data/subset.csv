@@ -1,0 +1,3 @@
+#defaultCSS=fill:#aaff00; fill-opacity:0.5; stroke:#ffffff; stroke-opacity:1.0; stroke-width:1.0; symbol:cross
+org.esa.snap.Geometry	geometry:Geometry	style_css:String
+ID8ed62b08218d	POLYGON ((78.08800168522666 29.902421012124226, 78.0933930468228 29.902421012124226, 78.0933930468228 29.898078553562343, 78.08800168522666 29.898078553562343, 78.08800168522666 29.902421012124226))	[null]

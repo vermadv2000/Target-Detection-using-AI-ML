@@ -1,0 +1,5 @@
+#defaultCSS=fill:#aaff00; fill-opacity:0.5; stroke:#ffffff; stroke-opacity:1.0; stroke-width:1.0; symbol:cross
+#placemarkDescriptor=org.esa.snap.core.datamodel.GeometryDescriptor
+#defaultGeometry=geometry
+org.esa.snap.Geometry	geometry:Geometry	style_css:String
+IDbeeeccda25e5	POLYGON ((77.942856526043 29.789884457682817, 77.93594715621718 29.789884457682817, 77.93594715621718 29.79936169569282, 77.942856526043 29.79936169569282, 77.942856526043 29.790137726215175, 77.942856526043 29.789884457682817))	[null]

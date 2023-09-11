@@ -1,0 +1,15 @@
+ENVI
+description = {(expression was '(B8-B4)/(B8+B4)') - Unit: 1}
+samples = 116
+lines = 124
+bands = 1
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+byte order = 1
+band names = { NDVI }
+map info = {Geographic Lat/Lon,59.5,63.5,78.0907167567697,29.90082535994695,9.223969477645255E-5,9.223969477645255E-5,WGS84,units=Degrees}
+coordinate system string = {GEOGCS["WGS84(DD)", DATUM["WGS84", SPHEROID["WGS84", 6378137.0, 298.257223563]], PRIMEM["Greenwich", 0.0], UNIT["degree", 0.017453292519943295], AXIS["Geodetic longitude", EAST], AXIS["Geodetic latitude", NORTH]]}
+data gain values = {1.0}
+data offset values = {0.0}
